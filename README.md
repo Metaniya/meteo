@@ -18,7 +18,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone (https://github.com/Metaniya/meteo/blob/main/README.md)
+git clone (https://github.com/Metaniya/meteo)
 Open the index.html file in a browser.
 Enter a city name to check the weather!
 
